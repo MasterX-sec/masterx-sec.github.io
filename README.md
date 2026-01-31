@@ -66,8 +66,8 @@ portfolio/
 ## Author
 
 **Deepak Raj** - Cybersecurity Professional
-- GitHub: [BeingN00b](https://github.com/BeingN00b)
-- Blog: [beingn00b.github.io](https://beingn00b.github.io)
+- GitHub: [MasterX-sec](https://github.com/MasterX-sec)
+- Blog: [masterx-sec.github.io](https://masterx-sec.github.io/)
 - LinkedIn: [deepakrajx01](https://www.linkedin.com/in/deepakrajx01)
 - Twitter: [@deepakrajx01](https://twitter.com/deepakrajx01)
 
